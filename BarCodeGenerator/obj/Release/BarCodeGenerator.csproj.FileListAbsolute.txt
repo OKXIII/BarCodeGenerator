@@ -1,0 +1,12 @@
+D:\Projects\BarCodeGenerator\BarCodeGenerator\bin\Release\BarCodeGenerator.exe.config
+D:\Projects\BarCodeGenerator\BarCodeGenerator\bin\Release\BarCodeGenerator.exe
+D:\Projects\BarCodeGenerator\BarCodeGenerator\bin\Release\BarCodeGenerator.pdb
+D:\Projects\BarCodeGenerator\BarCodeGenerator\bin\Release\Zen.Barcode.Core.dll
+D:\Projects\BarCodeGenerator\BarCodeGenerator\bin\Release\Zen.Barcode.Design.dll
+D:\Projects\BarCodeGenerator\BarCodeGenerator\obj\Release\BarCodeGenerator.BarCodeSettings.resources
+D:\Projects\BarCodeGenerator\BarCodeGenerator\obj\Release\BarCodeGenerator.FormGenerator.resources
+D:\Projects\BarCodeGenerator\BarCodeGenerator\obj\Release\BarCodeGenerator.Properties.Resources.resources
+D:\Projects\BarCodeGenerator\BarCodeGenerator\obj\Release\BarCodeGenerator.csproj.GenerateResource.Cache
+D:\Projects\BarCodeGenerator\BarCodeGenerator\obj\Release\BarCodeGenerator.exe
+D:\Projects\BarCodeGenerator\BarCodeGenerator\obj\Release\BarCodeGenerator.pdb
+D:\Projects\BarCodeGenerator\BarCodeGenerator\obj\Release\BarCodeGenerator.csprojResolveAssemblyReference.cache
